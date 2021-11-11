@@ -15,11 +15,11 @@
       "index",
       "inline"
     ],
-    "website": "https://github.com/EvamariaTG/EvaMaria",
-    "repository": "https://github.com/EvamariaTG/EvaMaria",
+    "website": "https://github.com/ErichRyker/EvaMaria",
+    "repository": "https://github.com/ErichRyker/EvaMaria",
     "env": {
         "BOT_TOKEN": {
-            "description": "Your bot token.",
+            "description": "Enter Your bot token.",
             "required": true
         },
         "API_ID": {
