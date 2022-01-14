@@ -14,7 +14,7 @@ class script(object):
 - I Am Not a open source project.  
 
 <b>DEVS:</b>
-- <a href=https://t.me/+gbMeElhavt9mNTBl>Team ADF Links</a>"""
+- <a href=https://t.me/+Jkk-NQn5mTNkNDRl>Team ADF</a>"""
     MANUELFILTER_TXT = """Help: <b>Filters</b>
 
 - Filter is the feature were users can set automated replies for a particular keyword and EvaMaria will respond whenever a keyword is found the message
